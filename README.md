@@ -8,7 +8,7 @@
 * [AIMP](https://www.aimp.ru/) - audio player (Windows)
 
 ## Document Editors and Viewers
-* [Foxit PDF Reader](https://www.foxit.com/pdf-reader/) - PDF reader (Windows)
+* [Foxit PDF Reader](https://www.foxit.com/pdf-reader/) - PDF viewer (Windows)
 * [LibreOffice](https://www.libreoffice.org/) - office suite (Linux, Windows, Mac)
 * [WinDjView](https://windjview.sourceforge.io/) - DjVu viewer (Windows)
 
@@ -18,6 +18,11 @@
 ## Images
 * [IrfanView](https://www.irfanview.com/) - lightweight image viewer (Windows)
 * [paint.net](https://www.getpaint.net/) - image editor (Windows)
+
+## Networking
+* [Aria2](https://aria2.github.io/) - multi-protocol command-line download utility (Linux, Windows, Mac)
+* [SoftEther VPN](https://www.softether.org/) - multi-protocol VPN server and client (Linux, Windows, Mac)
+* [TightVNC](https://www.tightvnc.com/) - remote desktop server and client (Windows)
 
 ## Software Development
 * [Clang](https://clang.llvm.org/) - C, C++, Objective-C compiler (Linux, Windows, Mac)
