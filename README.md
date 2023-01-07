@@ -18,6 +18,7 @@
 ## Images
 * [IrfanView](https://www.irfanview.com/) - lightweight image viewer (Windows)
 * [paint.net](https://www.getpaint.net/) - image editor (Windows)
+* [Pinta](https://www.pinta-project.com/) - image editor (Linux, Windows, Mac)
 
 ## Networking
 * [Aria2](https://aria2.github.io/) - multi-protocol command-line download utility (Linux, Windows, Mac)
@@ -33,7 +34,7 @@
 * [Visual Studio Code](https://code.visualstudio.com/) - lightweight IDE (Linux, Windows, Mac)
 
 ## Video
-* [ffmpeg](https://ffmpeg.org/) - command line tool for audio and video conversion (Linux, Windows, Mac)
+* [ffmpeg](https://ffmpeg.org/) - command-line tool for audio and video conversion (Linux, Windows, Mac)
 * [HandBrake](https://handbrake.fr/) - video converter (Linux, Windows, Mac)
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - audio and video converter (Windows)
 * [K-Lite Codec Pack](https://codecguide.com/) - video player with a collection of codecs (Windows)
