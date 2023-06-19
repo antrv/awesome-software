@@ -38,3 +38,15 @@
 * [HandBrake](https://handbrake.fr/) - video converter (Linux, Windows, Mac)
 * [XMedia Recode](https://www.xmedia-recode.de/en/) - audio and video converter (Windows)
 * [K-Lite Codec Pack](https://codecguide.com/) - video player with a collection of codecs (Windows)
+
+# List of Free Services
+ 
+* [Cloudflare](https://www.cloudflare.com/) - DNS services, static web site hosting (pulling content from Git repository), email forwarding, tunneling
+* [DuckDNS](https://www.duckdns.org/) - dynamic DNS
+* [GMail](https://mail.google.com/) - E-Mail storage and web ui
+* [Outlook](https://outlook.live.com/) - E-Mail storage and web ui
+* [GMX](https://www.gmx.com/) - E-Mail storage and web ui
+* [Proton Mail](https://proton.me/) - E-Mail storage and web ui
+* [Brevo](https://www.brevo.com/) - SMTP relay (free 300 emails/day), [SMTP settings](https://help.brevo.com/hc/en-us/articles/115000188150-Troubleshooting-issues-with-the-SMTP)
+* [https://nic.eu.org/](https://nic.eu.org/) - `*.eu.org` domains
+* [Oracle Cloud](https://cloud.oracle.com/) - virtual machines
